@@ -1,6 +1,5 @@
 # HeroesApp
-
-https://app.netlify.com/sites/rutas-hijas-principales-lazyload-app-fma/
+https://rutas-hijas-principales-lazyload-app-fma.netlify.app/
 
 Rutas Hijas, Rutas Principales, LazyLoad 
 
